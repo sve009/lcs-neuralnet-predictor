@@ -1,5 +1,6 @@
 # lcs-neuralnet-predictor
-This neural net uses team stats as features in order to predict the overall win rate.
+This neural net uses team stats as features in order to predict the overall win rate. Almost entirely useless since GDM (Gold differential per minute)
+is currently factors in, which has an almost 1-1 correspondence with win rate.
 
 ## Usage
 
